@@ -1,10 +1,10 @@
 <?php 
 
-require_once("modelo/Bebida.php");
-require_once("modelo/Comida.php");
-require_once("modelo/IPedido.php");
-require_once("modelo/Pedido.php");
-require_once("modelo/Produto.php");
+require_once("Modelo/Bebida.php");
+require_once("Modelo/Comida.php");
+require_once("Modelo/IPedido.php");
+require_once("Modelo/Pedido.php");
+require_once("Modelo/Produto.php");
 
 $escolha = 0;
         do {
